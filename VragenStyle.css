@@ -1,0 +1,42 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+
+body {
+  background-color: Gold;
+  font color: purple;
+  color: White;
+}
+
+
+h2 {
+  background-color: : #eeeeff ;  /*lichtpaars*/
+  color: #660099;  /*paars*/
+
+}
+p{
+  background-color: Red;
+  border: 2px solid black;
+  padding-left: 20px;
+  padding-right: 10px;
+  margin-right: 65%;
+}
+p.antwoord {
+  color: yellow;
+  background-color: Yellow;
+}
+p.antwoord:hover {
+  color: black;
+}
+ul li {
+    color: Gold;
+    text-align: center;
+    display: inline;
+    border: #c1304b 2px solid;
+    margin: 2px;
+}
+
+h3 {
+    color: black;
+}
